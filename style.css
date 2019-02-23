@@ -229,7 +229,7 @@
     div#preloader {
         overflow: hidden;
         background-color: #fff;
-        background-image: url(img/core-img/home-2406416_1920.jpg);
+        background-image: url(img/core-img/key-3087898_1920.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         height: 100%;
@@ -879,11 +879,11 @@
     }
     
     .cool_facts_area .cool_fact_text:nth-child(4) {
-        background-color: #033668;
+        background-color: #e2df1b;
     }
     
     .cool_facts_area .cool_fact_text:last-child {
-        background-color: #ee5e1b;
+        background-color: #2e22e0;
     }
     
     .cool_fact_text h3 {
